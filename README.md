@@ -1,2 +1,2 @@
-# Solidity-1-
+# Solidity-1%-
 learning path 
